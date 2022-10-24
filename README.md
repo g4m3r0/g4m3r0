@@ -1,7 +1,7 @@
 # Hi there, I'm Lucas! 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=g4m3r0&show_icons=true&theme=dark&count_private=true" alt="g4m3r0's GitHub stats" />
-<img align="left" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=g4m3r0&layout=compact&hide=Jupyter%20Notebook' alt="Top Langs" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=g4m3r0&show_icons=true&theme=dark&count_private=true" alt="g4m3r0's GitHub stats" />
+<img align="left" width="40%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=g4m3r0&layout=compact&hide=Jupyter%20Notebook' alt="Top Langs" />
 <br>
 <br>
 
