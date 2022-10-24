@@ -4,6 +4,7 @@
 <img align="left" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=g4m3r0&layout=compact&hide=Jupyter%20Notebook' alt="Top Langs" />
 <br>
 <br>
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
