@@ -1,9 +1,9 @@
 # Hi there, I'm Lucas! 👋
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=g4m3r0&show_icons=true&theme=dark&count_private=true" alt="g4m3r0's GitHub stats" />
-<img align="left" width="40%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=g4m3r0&layout=compact&hide=Jupyter%20Notebook' alt="Top Langs" />
-<br>
-<br>
+![g4m3r0's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4m3r0&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4m3r0&layout=compact&hide=Jupyter%20Notebook)
+
+### Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
