@@ -3,8 +3,9 @@
 ![g4m3r0's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4m3r0&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4m3r0&layout=compact&hide=Jupyter%20Notebook)
 
-### Languages
+![g4m3r0's Global Stats](https://raw.githubusercontent.com/g4m3r0/GitStats/actions_branch/generated_images/overview.svg)
 
+### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
