@@ -15,3 +15,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### My SEO & Marketing Tools
+
+[Website Traffic Bot](https://gsoftwarelab.com/organic-website-traffic-bot/)
+[Automated Proxy Scraper](https://gsoftwarelab.com/proxy-scraper-and-proxy-tester-software/)
+[Instant Backlink Indexing Tool](https://gsoftwarelab.com/index-buddy-backlink-indexer/)
+[SEO & Marketing Software](https://gsoftwarelab.com)
